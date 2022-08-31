@@ -9,8 +9,6 @@
 ![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0008.jpg)
 ![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0009.jpg)
 ![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0010.jpg)
-![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0011.jpg)
-![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0012.jpg)
-![Image](https://github.com/pradeep-138/Real-Estate-Price-Prediction-On-Scrapped-Data/blob/main/Images/0013.jpg)
+
 
 
